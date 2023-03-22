@@ -1,0 +1,13 @@
+Suppose you are building a web application for a bookstore, 
+and you need to keep track of the books that are in stock. 
+Each book has a title, an author, a price, and a number of copies available.
+You decide to represent each book as an object with properties for each of these attributes.You also need to keep track of the books that customers have added to their shopping cart.
+You decide to represent the shopping cart as an array of book objects.Here are some tasks you need to accomplish:
+
+
+1:Create an array of book objects for the books that are in stock. 
+Include at least five books in the array.Display the details of all the books :in the stock array, including the title, author, price, and number of copies available.
+3:Allow the user to search for a book by title. If the book is found, display its details. If it is not found, display an error message.
+4:Allow the user to add a book to their shopping cart. If the book is not in stock, display an error message. Otherwise, decrement the number of copies available and add the book to the shopping cart array.
+5:Display the contents of the shopping cart, including the title, author, price, and number of copies of each book in the cart.
+6:Allow the user to remove a book from their shopping cart. If the book is not in the cart, display an error message. Otherwise, remove the book from the shopping cart array and increment the number of copies available.has context menu
